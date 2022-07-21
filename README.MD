@@ -1,0 +1,1 @@
+# This solution is meant to used the Example provided in Spinnaker SDK
